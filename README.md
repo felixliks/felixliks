@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 ###Макеты
--[zzz](https://github.com/felixliks/frontend-project-44)
+-[Игры разума](https://github.com/felixliks/frontend-project-44)
